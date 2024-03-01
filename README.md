@@ -10,7 +10,7 @@
 <div style="display: flex; align-items: center;">
   <a href="https://github.com/seveenxs">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=seveenxs&show_icons=true&hide_border=true&rank_icon=github&title_color=595990&icon_color=595990&text_color=cbcbf2&bg_color=191924" style="margin-right: 20px;" />
-<img width="44%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=euikki&layout=compact&hide_border=true&title_color=595990&text_color=cbcbf2&bg_color=191924" style="margin-right: 20px;" />
+<img width="44%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seveenxs&layout=compact&hide_border=true&title_color=595990&text_color=cbcbf2&bg_color=191924" style="margin-right: 20px;" />
 </div>
 
 ---
