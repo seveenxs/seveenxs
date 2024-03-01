@@ -23,4 +23,7 @@
   <a href="https://github.com/seveenxs/Luna">
     <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/pin/?username=seveenxs&repo=Luna&hide_border=true&title_color=595990&text_color=cbcbf2&icon_color=595990&bg_color=191924" style="margin-right: 20px;" />
   </a>
+<a href="https://github.com/seveenxs/strcolorize">
+    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/pin/?username=seveenxs&repo=strcolorize&hide_border=true&title_color=595990&text_color=cbcbf2&icon_color=595990&bg_color=191924" style="margin-right: 20px;" />
+  </a>
 </div>
